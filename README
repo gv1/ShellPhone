@@ -1,0 +1,37 @@
+Command Line Phone
+------------------
+
+code is untested
+
+Eg commands:
+
+call:
+    c rms
+    c lt
+    c 012345678
+    r 012345678 10:30 3
+
+sms:
+    s rms
+    s 012345678
+    s l
+    s f 5 name
+    s r 10
+    s lt msg
+    s lt at 10am msg
+
+
+capture (camera):
+    cc file
+    cc file 10s 5
+ 
+caputre (video):
+    vc file
+    vc file 10s
+
+play video:
+    p file
+
+view image:
+    v file	
+
